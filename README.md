@@ -1,6 +1,6 @@
 a parse running file gem
 
-now only can parse tcx file
+now only can parse tcx file,use bryton tcx file
 
 # Usage #
 
@@ -25,4 +25,4 @@ par.rundetails.each do |detail|
   puts detail.speed
 end
 
-```   
+```
