@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["scaluo@gmail.com"]
   spec.description   = %q{parse running file,support tcx}
   spec.summary       = %q{parse running file,support tcx}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/scaluo/runningfile_parse.git"
   spec.license       = "MIT"
   #Dir["{lib/**/*,spec/*}"] + %w{README}
   spec.files         = Dir["{lib/**/*}"]
